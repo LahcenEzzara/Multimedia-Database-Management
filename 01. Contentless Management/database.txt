@@ -1,0 +1,5 @@
+Database :
+ENSAMCASA
+
+Table :
+Student (code, lname, fname, field, photo)
