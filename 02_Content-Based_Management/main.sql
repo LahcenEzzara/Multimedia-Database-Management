@@ -14,6 +14,7 @@ CREATE TABLE Student (
 );
 
 
+
 INSERT INTO
   Student (code, lname, fname, field, photo)
 VALUES

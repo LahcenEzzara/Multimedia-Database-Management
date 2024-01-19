@@ -5,6 +5,7 @@ VALUES (1, 'Lahcen', 'EZZARA', 'IAGI', EMPTY_BLOB());
 CREATE OR REPLACE DIRECTORY my_dir2 AS 'C:\Users\Lahcen\Downloads';
 
 
+
 GRANT READ, WRITE ON DIRECTORY my_dir TO sys;
 
 
